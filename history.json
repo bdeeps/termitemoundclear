@@ -1,0 +1,948 @@
+{
+  "title": "The history of the termite mound",
+  "tagline": "From a naturalist's 1781 letter to robots and solar-powered breathing: how people worked out what a termite mound does.",
+  "intro": "For two centuries people admired termite mounds without knowing how they work. In 1961 the mound became the textbook \"air-conditioned nest\", and an architect in Zimbabwe built a city block on that idea. Field measurements since then have shown the mound is more like a lung that breathes with the sun and the wind, and some questions are still open.",
+  "eras": [
+    {
+      "id": "notice",
+      "name": "Wonder and use",
+      "from": 1771,
+      "to": 1900,
+      "color": "#c49bff",
+      "summary": "Naturalists describe the giant mounds, and people across Africa use mound clay to build and to smelt iron."
+    },
+    {
+      "id": "aircon",
+      "name": "The air-conditioned nest",
+      "from": 1955,
+      "to": 1996,
+      "color": "#ffb547",
+      "summary": "Scientists picture the mound as a chimney that sheds colony heat, and an architect builds on the idea."
+    },
+    {
+      "id": "lung",
+      "name": "A lung, not an air conditioner",
+      "from": 1988,
+      "to": 2011,
+      "color": "#8ef0ff",
+      "summary": "Field measurements show mounds mainly swap gases with the air, and that the colony is an ancient fungus farm."
+    },
+    {
+      "id": "sun",
+      "name": "Breathing with the sun",
+      "from": 2014,
+      "to": 2023,
+      "color": "#a3e635",
+      "summary": "New sensors, X-rays and robots show mounds are ventilated by daily heating and gusts, and inspire new ways to build."
+    },
+    {
+      "id": "deep",
+      "name": "Mounds in deep time",
+      "from": 2018,
+      "to": 2024,
+      "color": "#ff7a59",
+      "summary": "Dating shows some mounds have been lived in for thousands, even tens of thousands, of years."
+    }
+  ],
+  "events": [
+    {
+      "year": 1781,
+      "date": "1781",
+      "era": "notice",
+      "art": "scroll",
+      "key": true,
+      "title": "A naturalist describes Africa's giant termite mounds",
+      "who": "Henry Smeathman",
+      "where": "Sierra Leone and London",
+      "country": "Sierra Leone",
+      "text": "Smeathman spent four years studying insects around Sierra Leone from 1771. In 1781 his letter on termites was read to the Royal Society and printed with engravings of his paintings. He described West African mounds over 12 feet tall.",
+      "why": "It was the first detailed European account of the huge mounds and the insects that build them.",
+      "box": "inside",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1800,
+      "date": "Last few centuries",
+      "era": "notice",
+      "art": "flame",
+      "title": "Iron smelters build furnaces on termite mounds",
+      "who": "Iron workers of Chongwe, studied by Edwinus Lyaya and colleagues",
+      "where": "Chongwe, near Lusaka, Zambia",
+      "country": "Zambia",
+      "text": "At Chongwe, every iron smelting site found sat on a termite mound, with three or four furnaces on the west side of each one. The furnace chimneys stood up to about three metres tall, and their walls were probably made from mound clay.",
+      "why": "It shows people using termite-built clay as a tough, heat-resistant building material.",
+      "box": "",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "1955",
+      "era": "aircon",
+      "art": "molecule",
+      "title": "Lüscher works out how much air a colony needs",
+      "who": "Martin Lüscher",
+      "where": "",
+      "country": "Switzerland",
+      "text": "Lüscher calculated that a large colony needs at least about 240 litres of oxygen a day. That means about 1,200 litres of air must reach the nest every day.",
+      "why": "It showed that a buried nest has a real breathing problem to solve.",
+      "box": "breathe",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "1959",
+      "era": "aircon",
+      "art": "block",
+      "key": true,
+      "title": "Grassé names \"stigmergy\"",
+      "who": "Pierre-Paul Grassé",
+      "where": "France",
+      "country": "France",
+      "text": "Grassé watched termites rebuild their nest. Each worker reacted to what the others had already built, not to orders. He called this work-triggers-work idea stigmergy.",
+      "why": "It explained how millions of insects with no plan can still build one mound.",
+      "box": "build",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1961,
+      "date": "July 1961",
+      "era": "aircon",
+      "art": "acunit",
+      "key": true,
+      "title": "The \"air-conditioned termite nest\"",
+      "who": "Martin Lüscher",
+      "where": "Scientific American",
+      "country": "Switzerland",
+      "text": "Lüscher argued that heat from the colony makes warm air rise up a central shaft. Cooler air then returns through channels near the surface. The article reached a wide audience.",
+      "why": "This thermosiphon picture became the textbook story, and later work challenged it.",
+      "box": "breathe",
+      "sources": [
+        7,
+        8,
+        4
+      ]
+    },
+    {
+      "year": 1961,
+      "date": "1961",
+      "era": "aircon",
+      "art": "building",
+      "title": "Cathedral mounds and dome mounds",
+      "who": "Pierre-Paul Grassé and Charles Noirot",
+      "where": "West Africa",
+      "country": "",
+      "text": "The same species, Macrotermes bellicosus, builds tall ridged \"cathedral\" mounds in open savanna. In shaded forest it builds thick-walled \"dome\" mounds.",
+      "why": "It hinted that mound shape changes with the local climate.",
+      "box": "climate",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1968",
+      "era": "aircon",
+      "art": "mountain",
+      "title": "An 8.7 metre mound is photographed in Somalia",
+      "who": "W. Page",
+      "where": "Somalia",
+      "country": "Somalia",
+      "text": "A mound about 8.7 metres tall was photographed in Somalia. Guinness World Records notes it as a one-off case in its archive.",
+      "why": "It gives a sense of how tall the biggest mounds can get.",
+      "box": "",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "1973",
+      "era": "aircon",
+      "art": "compass",
+      "title": "Turning a \"magnetic\" mound makes it overheat",
+      "who": "G. C. Grigg",
+      "where": "Northern Australia",
+      "country": "Australia",
+      "text": "Some Australian termites build flat mounds that face north and south. Grigg found the nest stayed at about 33 to 35 °C through the day. When he cut a mound free and turned it east-west, it reached 40 to 42 °C.",
+      "why": "It showed that mound shape and direction can control nest temperature.",
+      "box": "climate",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1988,
+      "date": "c. 1988",
+      "era": "lung",
+      "art": "person",
+      "title": "Turner starts probing mounds in Namibia",
+      "who": "J. Scott Turner",
+      "where": "Omatjenne research station, Namibia",
+      "country": "Namibia",
+      "text": "Turner began decades of fieldwork on Macrotermes mounds. He filled mounds with propane to trace air, scanned them with lasers and filled them with plaster to cast the tunnels.",
+      "why": "His casts and tracer tests gave the first clear pictures of air paths inside mounds.",
+      "box": "wind",
+      "sources": [
+        11,
+        12
+      ]
+    },
+    {
+      "year": 1992,
+      "date": "1992",
+      "era": "lung",
+      "art": "compass",
+      "title": "Magnetic mounds point slightly different ways",
+      "who": "Peter Jacklyn",
+      "where": "Top End, Northern Territory, Australia",
+      "country": "Australia",
+      "text": "Jacklyn measured many magnetic mounds. Their average direction changed from place to place, from true north near the coast to 10° east further south. He linked this to keeping the east face at a steady temperature.",
+      "why": "It showed termites tune mound direction to local sun, wind and shade.",
+      "box": "climate",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "1996",
+      "era": "aircon",
+      "art": "building",
+      "key": true,
+      "title": "The Eastgate Centre opens in Harare",
+      "who": "Mick Pearce, Arup and Old Mutual Properties",
+      "where": "Harare, Zimbabwe",
+      "country": "Zimbabwe",
+      "text": "Architect Mick Pearce designed a large office and shopping block that cools itself without conventional air conditioning. It stores heat in its heavy structure by day and flushes it out with night air through 48 brick chimneys. Pearce named the termite mound as his model.",
+      "why": "Arup calls it the first large modern building in Southern Africa cooled this way.",
+      "box": "eastgate",
+      "sources": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1997,
+      "date": "1997",
+      "era": "lung",
+      "art": "molecule",
+      "title": "Measuring a mound's breath in Kenya",
+      "who": "J. P. E. C. Darlington and colleagues",
+      "where": "Kenya",
+      "country": "Kenya",
+      "text": "The team measured gases leaving whole nests of Macrotermes jeanneli. A large nest gave off about 100,000 to 400,000 litres of gas a day, including 800 to 1,500 litres of carbon dioxide. Most of the water it lost came from the soil.",
+      "why": "It put real numbers on how much a colony breathes.",
+      "box": "breathe",
+      "sources": [
+        19,
+        4
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "1998–2000",
+      "era": "lung",
+      "art": "thermometer",
+      "key": true,
+      "title": "Savanna mounds versus forest mounds",
+      "who": "Judith Korb and K. Eduard Linsenmair",
+      "where": "Comoé National Park, Côte d'Ivoire",
+      "country": "Côte d'Ivoire",
+      "text": "In open savanna, big Macrotermes bellicosus nests stayed near 30 °C, changing by less than 2 °C while the air outside swung by about 35 °C. In cooler forest, nests averaged about 28 °C. When trees were cut and the site got warmer, the termites built more ridged mounds.",
+      "why": "It showed the mound trades off keeping heat in against letting stale air out.",
+      "box": "climate",
+      "sources": [
+        4,
+        20
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "2000",
+      "era": "lung",
+      "art": "wind",
+      "title": "Day and night airflow in cathedral mounds",
+      "who": "Judith Korb and K. Eduard Linsenmair",
+      "where": "Comoé National Park, Côte d'Ivoire",
+      "country": "Côte d'Ivoire",
+      "text": "By day, air rose in channels inside the sunny ridges and pulled stale air out of the nest. At night the pattern flipped and warm air rose up the central shaft. Carbon dioxide was low by day and higher at night.",
+      "why": "It showed outside temperature, not just colony heat, drives the airflow.",
+      "box": "breathe",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "2000",
+      "era": "lung",
+      "art": "scroll",
+      "title": "\"The Extended Organism\" is published",
+      "who": "J. Scott Turner",
+      "where": "Harvard University Press, USA",
+      "country": "USA",
+      "text": "Turner's book treats structures that animals build, such as termite mounds, as organs outside the body. It is about the physiology of animal-built structures.",
+      "why": "It framed the mound as part of the colony's body, not just a house.",
+      "box": "breathe",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "2001",
+      "era": "lung",
+      "art": "lungs",
+      "key": true,
+      "title": "The mound as a lung",
+      "who": "J. Scott Turner",
+      "where": "Namibia",
+      "country": "Namibia",
+      "text": "Turner found that Macrotermes michaelseni mounds do not control nest temperature in the way people had assumed. He argued the mound mainly helps the colony swap oxygen and carbon dioxide, driven by gusty wind. He called mounds \"accessory organs of gas exchange\".",
+      "why": "It shifted the question from cooling to breathing.",
+      "box": "wind",
+      "sources": [
+        22,
+        11
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "October 2002",
+      "era": "lung",
+      "art": "cell",
+      "title": "Fungus farming began once, in Africa",
+      "who": "Duur Aanen, Corinne Rouland-Lefèvre and colleagues",
+      "where": "Africa (study of termites and fungi)",
+      "country": "",
+      "text": "DNA from termites and their Termitomyces fungi showed the partnership started once, in Africa. The fungi have never gone back to living on their own. About 330 fungus-growing termite species are known.",
+      "why": "It showed the mound exists to serve an ancient farm.",
+      "box": "inside",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "c. 2003",
+      "era": "lung",
+      "art": "leaf",
+      "title": "Termite mushrooms on the menu",
+      "who": "FAO",
+      "where": "Africa and Asia",
+      "country": "",
+      "text": "An FAO review lists about 20 edible Termitomyces species from Africa and Asia. They are collected, sold in markets and along roadsides, and are a good source of income. Termitomyces titanicus is described as the world's largest edible fungus.",
+      "why": "The fungus the mound protects is also food for people.",
+      "box": "inside",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "2008",
+      "era": "lung",
+      "art": "building",
+      "title": "\"Beyond biomimicry\"",
+      "who": "J. Scott Turner and Rupert Soar",
+      "where": "UK and USA",
+      "country": "UK",
+      "text": "A biologist and an engineer argued that buildings should do more than copy termite shapes. They wanted buildings that are, in a sense, as alive as the people in them. Their research suggested mounds do not mainly regulate temperature.",
+      "why": "It questioned the popular story behind termite-inspired buildings.",
+      "box": "eastgate",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "2011",
+      "era": "lung",
+      "art": "leaf",
+      "title": "Termite farming is dated to about 31 million years ago",
+      "who": "T. Nobre, N. A. Koné, S. Konaté, K. E. Linsenmair and Duur Aanen",
+      "where": "Africa",
+      "country": "",
+      "text": "Using DNA, the team estimated that fungus-growing termites arose in African rainforest about 31 million years ago, with a range of 19 to 49 million. This was shortly before savannas spread.",
+      "why": "Termites were farming fungus long before people farmed anything.",
+      "box": "inside",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "13 February 2014",
+      "era": "sun",
+      "art": "chip",
+      "key": true,
+      "title": "Robots build like termites",
+      "who": "Justin Werfel, Kirstin Petersen and Radhika Nagpal",
+      "where": "Harvard, Cambridge, USA",
+      "country": "USA",
+      "text": "The TERMES robots build towers and pyramids from foam bricks with no leader and no messages. Each robot follows simple rules and reacts to the structure as it grows. The idea came from termites in Namibia.",
+      "why": "It showed that stigmergy can be used to build things on purpose.",
+      "box": "build",
+      "sources": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "2014",
+      "era": "sun",
+      "art": "earth",
+      "title": "Eating termite mound soil in pregnancy",
+      "who": "Elias Nyanza and colleagues",
+      "where": "Gold-mining communities, Tanzania",
+      "country": "Tanzania",
+      "text": "In a survey of 340 pregnant women, 45.6% said they ate soil. Most of the soil samples they ate came from termite mounds. The study warned some samples held high levels of chemical elements.",
+      "why": "Mound clay is part of daily life, and of health questions, in parts of Africa.",
+      "box": "",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "August 2015",
+      "era": "sun",
+      "art": "heatwaves",
+      "key": true,
+      "title": "Mounds breathe with the daily heat cycle",
+      "who": "Hunter King, Samuel Ocko and L. Mahadevan",
+      "where": "Near Bangalore, India",
+      "country": "India",
+      "text": "The team measured air inside about 25 mounds of Odontotermes obesus. By day the thin outer flutes warm faster than the core, so air rises in them and sinks in the chimney. At night it reverses. Carbon dioxide built up to nearly 6% in the nest by day and was flushed out at night.",
+      "why": "It showed the daily swing in outside temperature, not wind or colony heat, drives the flow.",
+      "box": "breathe",
+      "sources": [
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "September 2017",
+      "era": "sun",
+      "art": "heatwaves",
+      "key": true,
+      "title": "African mounds are solar powered too",
+      "who": "Samuel Ocko, J. Scott Turner, Rupert Soar, L. Mahadevan and colleagues",
+      "where": "Otjiwarongo, Namibia",
+      "country": "Namibia",
+      "text": "The team measured air speed and temperature inside Macrotermes michaelseni mounds in sunny Namibia. Sun heating again drove air flows that reversed between day and night. Carbon dioxide stayed close to 5% in the mound.",
+      "why": "It showed solar ventilation works in very different termites and climates.",
+      "box": "breathe",
+      "sources": [
+        34,
+        25
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "November 2018",
+      "era": "deep",
+      "art": "earth",
+      "key": true,
+      "title": "Two hundred million mounds seen from space",
+      "who": "Stephen Martin, Roy Funch, Paul Hanson and Eun-Hye Yoo",
+      "where": "Northeast Brazil",
+      "country": "Brazil",
+      "text": "About 200 million evenly spaced mounds, each about 2.5 m tall, cover some 230,000 km². They are spoil heaps from tunnels dug by Syntermes dirus. Soil from 11 mounds dated from 690 to 3,820 years old.",
+      "why": "Termite building can last for thousands of years and reshape a whole landscape.",
+      "box": "build",
+      "sources": [
+        35,
+        36
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "March 2019",
+      "era": "sun",
+      "art": "membrane",
+      "title": "X-rays reveal pores in mound walls",
+      "who": "Kamaljit Singh and colleagues",
+      "where": "Imperial College London, UK (nests from Senegal and Guinea)",
+      "country": "UK",
+      "text": "3D X-ray images showed linked networks of larger and smaller pores in termite nest walls. The pores let carbon dioxide out, insulate like double glazing, and drain rain by capillary action.",
+      "why": "It showed the wall itself is a breathing skin.",
+      "box": "wind",
+      "sources": [
+        37,
+        38
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "January 2019",
+      "era": "sun",
+      "art": "thermometer",
+      "title": "Open and closed mounds run at different temperatures",
+      "who": "Risto Vesala and colleagues",
+      "where": "Tsavo, Kenya",
+      "country": "Kenya",
+      "text": "Closed mounds of Macrotermes michaelseni were mostly warmer than open mounds of M. subhyalinus. Termitomyces fungus grows best at about 29 to 30 °C, and one fungus type was found mainly in warmer mounds.",
+      "why": "Mound design and the fungus it grows are matched.",
+      "box": "climate",
+      "sources": [
+        39
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "July 2020",
+      "era": "sun",
+      "art": "waterdrop",
+      "title": "Humidity guides where termites build",
+      "who": "Paul Bardunias, Rupert Soar, J. Scott Turner, Radhika Nagpal, Justin Werfel and colleagues",
+      "where": "Otjiwarongo, Namibia",
+      "country": "Namibia",
+      "text": "Air in the mound's tunnels was about 93% humid. Termites built outward where the moist air reached past the soil surface. The fungus needs a narrow range of humidity.",
+      "why": "It linked mound growth to keeping the nest moist.",
+      "box": "build",
+      "sources": [
+        40
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "26 May 2023",
+      "era": "sun",
+      "art": "wind",
+      "title": "A tunnel maze that breathes with the wind",
+      "who": "David Andréen and Rupert Soar",
+      "where": "Lund, Sweden and Nottingham, UK (mounds in Namibia)",
+      "country": "Sweden",
+      "text": "Macrotermes michaelseni mounds have an \"egress complex\", a lattice of tunnels 3 to 5 mm wide near the surface. Tests on a 3D-printed copy showed that small back-and-forth air movements, like gusty wind, can carry gas and moisture through it.",
+      "why": "Wind may still help mounds breathe, and the idea could shape building walls.",
+      "box": "wind",
+      "sources": [
+        41
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "May 2024",
+      "era": "deep",
+      "art": "mountain",
+      "key": true,
+      "title": "Mounds tens of thousands of years old",
+      "who": "Michele Francis and colleagues",
+      "where": "Buffels River, Namaqualand, South Africa",
+      "country": "South Africa",
+      "text": "Radiocarbon dating of mounds built by the southern harvester termite gave ages of about 13,000 to 19,000 years for organic carbon. Carbonate in them dated back up to about 34,000 years.",
+      "why": "They are the oldest inhabited termite mounds known.",
+      "box": "build",
+      "sources": [
+        42,
+        43
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Detailed European account of African termite mounds",
+      "value": "1781",
+      "who": "Henry Smeathman, Sierra Leone and London"
+    },
+    {
+      "label": "The word \"stigmergy\"",
+      "value": "1959",
+      "who": "Pierre-Paul Grassé, France"
+    },
+    {
+      "label": "Large modern building in Southern Africa cooled by natural ventilation",
+      "value": "1996",
+      "who": "Mick Pearce and Arup, Harare, Zimbabwe"
+    },
+    {
+      "label": "Robot crew that builds by termite-style rules",
+      "value": "2014",
+      "who": "Werfel, Petersen and Nagpal, Harvard, USA"
+    },
+    {
+      "label": "Oldest inhabited termite mounds dated",
+      "value": "up to c. 34,000 years",
+      "who": "Michele Francis and colleagues, South Africa"
+    }
+  ],
+  "people": [
+    {
+      "name": "Henry Smeathman",
+      "life": "1742 – 1786",
+      "role": "Naturalist",
+      "from": "Britain",
+      "note": "Wrote the 1781 Royal Society account of African termites after four years in Sierra Leone."
+    },
+    {
+      "name": "Edwinus Lyaya",
+      "life": "",
+      "role": "Archaeologist, University of Dar es Salaam",
+      "from": "Tanzania",
+      "note": "Studied iron-smelting furnaces built on termite mounds in Zambia and Tanzania."
+    },
+    {
+      "name": "Martin Lüscher",
+      "life": "",
+      "role": "Entomologist",
+      "from": "Switzerland",
+      "note": "Proposed the \"air-conditioned\" thermosiphon model of the termite nest."
+    },
+    {
+      "name": "Pierre-Paul Grassé",
+      "life": "",
+      "role": "Zoologist",
+      "from": "France",
+      "note": "Coined the word stigmergy for building guided by the work already done."
+    },
+    {
+      "name": "Mick Pearce",
+      "life": "",
+      "role": "Architect",
+      "from": "Zimbabwe",
+      "note": "Designed the termite-inspired, passively cooled Eastgate Centre in Harare."
+    },
+    {
+      "name": "Judith Korb",
+      "life": "",
+      "role": "Biologist",
+      "from": "Germany",
+      "note": "Showed how Macrotermes bellicosus mounds differ between savanna and forest in Côte d'Ivoire."
+    },
+    {
+      "name": "J. Scott Turner",
+      "life": "",
+      "role": "Physiologist, SUNY College of Environmental Science and Forestry",
+      "from": "USA",
+      "note": "Recast the mound as a lung for gas exchange, using tracer gas and plaster casts in Namibia."
+    },
+    {
+      "name": "Radhika Nagpal",
+      "life": "",
+      "role": "Computer scientist, Harvard",
+      "from": "USA",
+      "note": "Led the TERMES project on termite-inspired robot builders."
+    },
+    {
+      "name": "Kirstin Petersen",
+      "life": "",
+      "role": "Roboticist, then a Harvard graduate student",
+      "from": "USA",
+      "note": "Designed and built the TERMES robots and their bricks."
+    },
+    {
+      "name": "L. Mahadevan",
+      "life": "",
+      "role": "Applied mathematician and physicist, Harvard",
+      "from": "USA",
+      "note": "Led the studies showing mounds breathe with the daily temperature cycle in India and Namibia."
+    },
+    {
+      "name": "Michele Francis",
+      "life": "",
+      "role": "Soil scientist, Stellenbosch University",
+      "from": "South Africa",
+      "note": "Led the dating of Namaqualand mounds up to about 34,000 years old."
+    }
+  ],
+  "series": [
+    {
+      "id": "height",
+      "title": "How tall the mounds in these studies were",
+      "unit": "metres",
+      "log": false,
+      "after": "sun",
+      "caption": "Heights reported in studies over time; they vary with species and place, not with the year.",
+      "points": [
+        {
+          "year": 1781,
+          "value": 3.7,
+          "label": "Sierra Leone: over 12 feet, about 3.7 m (Smeathman)"
+        },
+        {
+          "year": 1968,
+          "value": 8.7,
+          "label": "Somalia: 8.7 m mound photographed (Guinness archive)"
+        },
+        {
+          "year": 1992,
+          "value": 2,
+          "label": "Australia, magnetic mounds: about 2 m (Jacklyn)"
+        },
+        {
+          "year": 2014,
+          "value": 5,
+          "label": "Namibia: about 5 m or higher (National Geographic)"
+        },
+        {
+          "year": 2015,
+          "value": 2,
+          "label": "India, Odontotermes obesus: about 2 m (King et al.)"
+        },
+        {
+          "year": 2017,
+          "value": 3,
+          "label": "Namibia, Macrotermes michaelseni: up to 3 m (Ocko et al.)"
+        },
+        {
+          "year": 2018,
+          "value": 2.5,
+          "label": "Brazil, Syntermes dirus: about 2.5 m (Martin et al.)"
+        },
+        {
+          "year": 2019,
+          "value": 1.75,
+          "label": "Kenya: tallest studied mound 1.75 m (Vesala et al.)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "A big Macrotermes nest in Kenya breathed out about 800 to 1,500 litres of carbon dioxide a day.",
+    "In savanna mounds in Côte d'Ivoire, the nest stayed near 30 °C, changing by less than 2 °C while outside air swung by about 35 °C.",
+    "Inside the mound, the fungus takes up about eight times more space than the termites and does about 85% of the breathing.",
+    "Brazil's 200 million Syntermes mounds hold about 10 cubic kilometres of soil, roughly 4,000 Great Pyramids of Giza.",
+    "By day, carbon dioxide in an Indian termite nest can build up to nearly 6%."
+  ],
+  "sources": [
+    {
+      "title": "Henry Smeathman",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/henry-smeathman/"
+    },
+    {
+      "title": "Termites (Plate 10 of Smeathman's 1781 paper)",
+      "publisher": "Royal Society Picture Library",
+      "url": "https://pictures.royalsociety.org/image-rs-8501"
+    },
+    {
+      "title": "A Technology of Multiple Smelting Furnaces per Termite Mound: Iron Production in Chongwe, Lusaka, Zambia (Lyaya et al.)",
+      "publisher": "UCL Discovery (Journal of African Archaeology, 2020)",
+      "url": "https://discovery.ucl.ac.uk/10114724/3/Rehren_JAA-2020_004_Lyaya%20et%20al%20prepub.pdf"
+    },
+    {
+      "title": "The archaeologists saving Africa's ironworking heritage",
+      "publisher": "Chemistry World",
+      "url": "https://chemistryworld.com/features/the-archaeologists-saving-africas-ironworking-heritage/4018411.article"
+    },
+    {
+      "title": "Thermoregulation and ventilation of termite mounds (Korb, Naturwissenschaften 2003)",
+      "publisher": "Springer (author copy hosted by EPFL)",
+      "url": "https://documents.epfl.ch/users/m/mp/mpottera/public/SuperS09/CS5_Termites_Mounds/Thermoregulation%20and%20ventillation.pdf"
+    },
+    {
+      "title": "A Brief History of Stigmergy (Theraulaz and Bonabeau, Artificial Life 1999)",
+      "publisher": "University of Bologna (APICe)",
+      "url": "https://apice.unibo.it/xwiki/bin/view/Publication/StigmergyhistoryArtificiallife5"
+    },
+    {
+      "title": "Ant algorithms and stigmergy (Dorigo, Bonabeau and Theraulaz, 2000)",
+      "publisher": "Future Generation Computer Systems (copy at University of Bologna)",
+      "url": "https://lia.disi.unibo.it/Courses/AI/fundamentalsAI2008-09/papers/stigmergy.pdf"
+    },
+    {
+      "title": "Air-conditioned termite nests (Martin Lüscher, July 1961)",
+      "publisher": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/air-conditioned-termite-nests/"
+    },
+    {
+      "title": "The Termite and the Architect",
+      "publisher": "Nautilus",
+      "url": "https://nautil.us/the-termite-and-the-architect-234706"
+    },
+    {
+      "title": "Tallest termite mound",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/106950-tallest-termite-mound"
+    },
+    {
+      "title": "Some Consequences of the Shape and Orientation of 'magnetic' Termite Mounds (Grigg, 1973)",
+      "publisher": "Australian Journal of Zoology (CSIRO Publishing)",
+      "url": "https://connectsci.au/zo/article/21/2/231/41980/Some-Consequences-of-the-Shape-and-Orientation-of"
+    },
+    {
+      "title": "Mind in the Mound: How Do Termites Build Their Huge Structures?",
+      "publisher": "National Geographic",
+      "url": "https://www.nationalgeographic.com/animals/article/140731-termites-mounds-insects-entomology-science"
+    },
+    {
+      "title": "More Bug Nest Casting: Scott Turner's Termite Mounds",
+      "publisher": "Core77",
+      "url": "http://www.core77.com/posts/23635/More-Bug-Nest-Casting-Scott-Turners-Termite-Mounds"
+    },
+    {
+      "title": "Solar engineering for the blind: \"Magnetic\" termite mounds of the Top End (Jacklyn, 1992)",
+      "publisher": "Northern Territory Naturalist (Internet Archive)",
+      "url": "https://archive.org/details/biostor-254214"
+    },
+    {
+      "title": "Philosophy",
+      "publisher": "Mick Pearce",
+      "url": "https://mickpearce.com/philosophy"
+    },
+    {
+      "title": "Eastgate",
+      "publisher": "Arup",
+      "url": "https://www.arup.com/projects/eastgate"
+    },
+    {
+      "title": "The Arup Journal 1997 Issue 1",
+      "publisher": "Arup",
+      "url": "https://www.arup.com/projects/the-arup-journal-1990s/the-arup-journal-1997-issue-1/"
+    },
+    {
+      "title": "Architecture-Zimbabwe: Termites Inspire New Office Complex",
+      "publisher": "Inter Press Service",
+      "url": "https://www.ipsnews.net/1996/06/architecture-zimbabwe-termites-inspire-new-office-complex/"
+    },
+    {
+      "title": "Eastgate Centre, Harare",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eastgate_Centre,_Harare"
+    },
+    {
+      "title": "Production of metabolic gases by nests of the termite Macrotermes jeanneli in Kenya (1997)",
+      "publisher": "Journal of Tropical Ecology (Cambridge University Press)",
+      "url": "https://cambridge.org/core/journals/journal-of-tropical-ecology/article/production-of-metabolic-gases-by-nests-of-the-termite-macrotermes-jeanneli-in-kenya/5592B70D65D4B85813DA26AA4D416979"
+    },
+    {
+      "title": "Thermoregulation and ventilation of termite mounds (publication record)",
+      "publisher": "University of Regensburg",
+      "url": "https://pred.uni-regensburg.de/id/eprint/39068/"
+    },
+    {
+      "title": "ESF Professor's New Book Looks at What Makes Something 'Alive'",
+      "publisher": "SUNY College of Environmental Science and Forestry",
+      "url": "https://www.esf.edu/news/2018/esf-professor-new-book.php"
+    },
+    {
+      "title": "Social insects inspire human design (Holbrook et al., Biology Letters 2010)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3226954"
+    },
+    {
+      "title": "The evolution of fungus-growing termites and their mutualistic fungal symbionts (Aanen et al., PNAS 2002)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC137514"
+    },
+    {
+      "title": "Wild edible fungi: a global overview of their use and importance to people",
+      "publisher": "FAO",
+      "url": "https://www.fao.org/4/y5489e/y5489e06.htm"
+    },
+    {
+      "title": "What Termites Can Teach Engineers",
+      "publisher": "ASME",
+      "url": "https://www.asme.org/Topics-Resources/Content/What-Termites-Can-Teach-Engineers"
+    },
+    {
+      "title": "Nature's engineers inspire sustainable building designs",
+      "publisher": "Institution of Mechanical Engineers",
+      "url": "https://www.imeche.org/news/news-article/feature-nature's-engineers-inspire-sustainable-building-designs"
+    },
+    {
+      "title": "Dating the fungus-growing termites' mutualism (Nobre et al., Molecular Ecology 2011)",
+      "publisher": "Wageningen University & Research",
+      "url": "https://research.wur.nl/en/publications/dating-the-fungus-growing-termites-mutualism-shows-a-mixture-betw"
+    },
+    {
+      "title": "Robotic construction crew needs no foreman",
+      "publisher": "Harvard John A. Paulson School of Engineering and Applied Sciences",
+      "url": "https://seas.harvard.edu/news/2014/02/robotic-construction-crew-needs-no-foreman"
+    },
+    {
+      "title": "Robotic construction crew needs no foreman",
+      "publisher": "Wyss Institute, Harvard University",
+      "url": "https://wyss.harvard.edu/robotic-construction-crew-needs-no-foreman"
+    },
+    {
+      "title": "Geophagy practices and the content of chemical elements in the soil eaten by pregnant women in artisanal and small scale gold mining communities in Tanzania (2014)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3997190/"
+    },
+    {
+      "title": "Termite mounds harness diurnal temperature oscillations for ventilation (King, Ocko and Mahadevan, PNAS 2015)",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/1703.08067"
+    },
+    {
+      "title": "How termites ventilate",
+      "publisher": "Harvard John A. Paulson School of Engineering and Applied Sciences",
+      "url": "https://seas.harvard.edu/news/how-termites-ventilate"
+    },
+    {
+      "title": "Termites' Cathedral Mounds",
+      "publisher": "Harvard Magazine",
+      "url": "https://www.harvardmagazine.com/2015/10/harvard-study-finds-that-termite-mound-functions-as-lung-that-sneezes-carbon-dioxide"
+    },
+    {
+      "title": "Solar-powered ventilation of African termite mounds (Ocko et al., 2017)",
+      "publisher": "Journal of Experimental Biology",
+      "url": "https://journals.biologists.com/jeb/article/220/18/3260/18709/Solar-powered-ventilation-of-African-termite"
+    },
+    {
+      "title": "A vast 4,000-year-old spatial pattern of termite mounds (Martin et al., Current Biology 2018)",
+      "publisher": "University at Buffalo",
+      "url": "https://researchconnect.buffalo.edu/en/publications/a-vast-4000-year-old-spatial-pattern-of-termite-mounds/"
+    },
+    {
+      "title": "These 4,000-year-old termite mounds are visible from space and still in use",
+      "publisher": "Mongabay",
+      "url": "https://news.mongabay.com/2018/11/these-4000-year-old-termite-mounds-are-visible-from-space-and-still-in-use/"
+    },
+    {
+      "title": "X-rays reveal secrets of termites' self-cooling, self-draining skyscrapers",
+      "publisher": "Imperial College London",
+      "url": "https://www.imperial.ac.uk/news/190633/x-rays-reveal-secrets-termites-self-cooling-self-draining/"
+    },
+    {
+      "title": "Climate control in termite mounds: A review and new insights from X-ray tomography and flow field simulations",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/2406.13400"
+    },
+    {
+      "title": "Termite mound architecture regulates nest temperature and correlates with species identities of symbiotic fungi (Vesala et al., PeerJ 2019)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6339472/"
+    },
+    {
+      "title": "The extension of internal humidity levels beyond the soil surface facilitates mound expansion in Macrotermes (2020)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7423481"
+    },
+    {
+      "title": "Termite mounds reveal secret to creating 'living and breathing' buildings that use less energy",
+      "publisher": "Frontiers",
+      "url": "https://frontiersin.org/news/2023/05/26/frontiers-materials-egress-complex-termite-mounds-ventilation"
+    },
+    {
+      "title": "Uncovering ancient wonders: The world's oldest termite mounds found in South Africa",
+      "publisher": "Stellenbosch University via EurekAlert!",
+      "url": "https://www.eurekalert.org/news-releases/1048077"
+    },
+    {
+      "title": "Uncovering ancient wonders: The world's oldest inhabited termite mounds found in South Africa",
+      "publisher": "Phys.org",
+      "url": "https://phys.org/news/2024-06-uncovering-ancient-world-oldest-inhabited.html"
+    }
+  ]
+}

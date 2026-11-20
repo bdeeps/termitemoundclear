@@ -1,0 +1,111 @@
+{
+  "slug": "termitemoundclear",
+  "box": 254,
+  "date": "2026-12-21",
+  "title": "TermiteMoundClear",
+  "question": "How does a termite mound stay cool?",
+  "hook": "A termite mound is a tower of soil built on top of a buried nest, and it breathes. Peel one open, watch air flip direction between day and night, feel the wind through its porous walls, and see how a building in Harare borrowed the idea.",
+  "thumbText": "HOW TERMITES KEEP COOL",
+  "field": "nature",
+  "minutes": 15,
+  "tags": [
+    "termites",
+    "termite mound",
+    "ventilation",
+    "biomimicry",
+    "Eastgate Centre",
+    "stigmergy",
+    "fungus farming",
+    "passive cooling",
+    "nature",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A tower on top of a home",
+      "text": "Fungus-farming termites such as Macrotermes live in a nest at or below ground, with a queen, workers and gardens of Termitomyces fungus. The earth tower above is mostly for breathing. In Namibia these mounds stand about 1 to 3 metres tall, some reach 5 metres or more, and records reach about 8 metres. A big colony holds one to two million termites."
+    },
+    {
+      "title": "The colony must breathe",
+      "text": "The termites and, above all, their fungus use oxygen and give off carbon dioxide, heat and water. One large nest in Kenya gave off 800 to 1,500 litres of CO2 a day. The mound's wide central chimney, its narrow conduits under the surface and its thin porous wall let stale air out and fresh air in."
+    },
+    {
+      "title": "Breathing with the sun",
+      "text": "The old idea, made famous by Martin Lüscher in 1961, was a steady thermosiphon driven by colony heat. Sensors in Indian mounds told a different story in 2015: by day the thin outer flutes warm faster than the core, so air rises up the outside and sinks down the chimney; at night it reverses. CO2 built up to nearly 6 percent by day and was flushed at night. Namibian mounds showed the same twice-a-day reversal."
+    },
+    {
+      "title": "Wind, pores and an open question",
+      "text": "J. Scott Turner argued that gusty wind makes air slosh back and forth in the outer conduits while gases diffuse through the porous wall, so the mound works like a lung. Other studies found the daily flows did not follow the wind. Both effects have been measured in different mounds; how much each matters is still debated."
+    },
+    {
+      "title": "Steady, warm and humid",
+      "text": "The fungus grows best near 29 to 30 °C in very humid air. Large savanna nests of Macrotermes bellicosus in Côte d'Ivoire stayed near 30 °C, varying by less than 2 °C while the outside air ranged over about 35 °C. Most of the water in the nest comes from damp soil, and tunnel air has been measured at about 93 percent humidity."
+    },
+    {
+      "title": "No plan, and a building that copied it",
+      "text": "No termite has a plan. Workers react to the work already done, which Pierre-Paul Grassé called stigmergy in 1959, and positive feedback turns scattered soil into pillars and walls. In Harare, Mick Pearce's Eastgate Centre (1996) uses heavy floors, night air and 48 chimneys to stay cool without conventional air conditioning; Arup reports 90 percent less energy to heat and cool, while other reports give smaller savings."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Macrotermes",
+      "def": "A genus of large fungus-growing termites from Africa and Asia that build big mounds."
+    },
+    {
+      "term": "Termitomyces",
+      "def": "A genus of fungi grown only by fungus-farming termites on combs of chewed plant matter."
+    },
+    {
+      "term": "Surface conduits",
+      "def": "Narrow tunnels running just under a mound's porous outer wall, often inside its ridges."
+    },
+    {
+      "term": "Thermosiphon",
+      "def": "A loop in which warm air rises, cools and sinks, driven by a steady heat source."
+    },
+    {
+      "term": "Diurnal ventilation",
+      "def": "Air flow driven by the daily swing of temperature, which reverses between day and night."
+    },
+    {
+      "term": "Tidal ventilation",
+      "def": "Air moving back and forth in the same passages, as gusts rise and fall."
+    },
+    {
+      "term": "Diffusion",
+      "def": "Gas molecules spreading from where they are crowded to where they are scarce, with no flow needed."
+    },
+    {
+      "term": "Thermal mass",
+      "def": "Heavy material, like soil or concrete, that stores heat and changes temperature slowly."
+    },
+    {
+      "term": "Stigmergy",
+      "def": "Coordination through the work itself: each change to the structure prompts the next action."
+    },
+    {
+      "term": "Night flushing",
+      "def": "Blowing cool night air through a building to carry away heat stored during the day."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "termitemoundclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ],
+  "thumbScene": 3
+}
